@@ -6,6 +6,6 @@ https://doi.org/10.1103/PRXLife.2.043006
 
 We examine the dynamics of social interaction using a sliding time-window approach. Information measures are estimated under the Gaussian approximation of the underlying distributions. For further theoretical and computational details, please refer to:
 Kawano, A., O’Shaughnessy, L., Neiman, R., Deligkaris, K., Rodriguez, L.C., Masai, I., Stephens, G.J. (2025). Decomposing Predictive Information in Social Dynamics.
-https://doi.org/10.1101/2025.05.16.654393
+https://www.biorxiv.org/content/10.1101/2025.05.16.654393v2
 
 For questions or comments, please contact: akira.kawano2@oist.jp
